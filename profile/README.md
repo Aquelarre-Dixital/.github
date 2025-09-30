@@ -7,7 +7,6 @@ Aquelarre Dixital é unha comunidade de mulleres galegas no sector da tecnoloxí
 - Compartimos coñecemento a través de eventos, recursos e colaboración
 - Fomentamos a visibilidade das mulleres galegas nos sectores tecnolóxicos
 
-Podes coñecer máis sobre o que facemos a través da nosa futura web e mergullándote na nosa [📚Wiki](https://github.com/Aquelarre-Dixital/aquelarre-dixital-wiki/wiki).
 
 ## 🤲🏽 Como participar
 - Únete á conversa en [Telegram](https://t.me/+3z1Mprgy0qo2ZTNk)
@@ -17,8 +16,15 @@ Podes coñecer máis sobre o que facemos a través da nosa futura web e mergull�
 - Realiza [tarefas pendientes ](https://github.com/orgs/Aquelarre-Dixital/projects)
 
 ## ✍🏽 Recursos
-- 🌐 Sitio web de Aquelarre Dixital (proximamente)
-- 📚 [Wiki](https://github.com/Aquelarre-Dixital/aquelarre-dixital-wiki/wiki), o noso repo de coñecemento central, onde rexistramos todo o pensado, falado e planificado.
+
+Queres mais información sobre quén somos, qué facemos, cómo o facemos e para quén o facemos? 
+
+<p align="center">
+  <a href="https://github.com/Aquelarre-Dixital/aquelarre-dixital-wiki/wiki">
+    <img src="https://img.shields.io/badge/📖_Mergullate_na_Wiki-blueviolet?style=for-the-badge&logo=github" alt="Mergullate na Wiki"/>
+  </a>
+</p>
 
 ---
+
 2025 Aquelarre Dixital | Construído con ❤️‍🔥 pola comunidade.
