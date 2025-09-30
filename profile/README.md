@@ -13,10 +13,11 @@ Podes coñecer máis sobre o que facemos a través da nosa futura web e mergull�
 - Únete á conversa en [Telegram](https://t.me/+3z1Mprgy0qo2ZTNk)
 - Únete ao noso servidor de [Discord](https://discord.gg/tzXRcgVvNp)
 - Contribúe aos nosos proxectos abertos (como a [wiki](https://github.com/Aquelarre-Dixital/aquelarre-dixital-wiki/wiki) ou a [web](https://github.com/Aquelarre-Dixital/website))
-- Asiste as reunións, aos eventos e as formacións
+- Asiste [as reunións, aos eventos, os talleres e as formacións](https://github.com/Aquelarre-Dixital/aquelarre-dixital-wiki/wiki/Eventos)
+- Realiza [tarefas pendientes ](https://github.com/orgs/Aquelarre-Dixital/projects)
 
 ## ✍🏽 Recursos
-- 🌐 [Sitio web](https://github.com/Aquelarre-Dixital/website) de Aquelarre Dixital (proximamente)
+- 🌐 Sitio web de Aquelarre Dixital (proximamente)
 - 📚 [Wiki](https://github.com/Aquelarre-Dixital/aquelarre-dixital-wiki/wiki), o noso repo de coñecemento central, onde rexistramos todo o pensado, falado e planificado.
 
 ---
